@@ -1,0 +1,14 @@
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\bin\Debug\proyectoAdminT.exe.config
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\bin\Debug\proyectoAdminT.exe
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\bin\Debug\proyectoAdminT.pdb
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.csproj.AssemblyReference.cache
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.Properties.Resources.resources
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.csproj.GenerateResource.cache
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.exe
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.pdb
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\bin\Debug\MetroFramework.dll
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.Form1.resources
+C:\Users\Sofi\source\repos\proyectoAdminT\proyectoAdminT\obj\Debug\proyectoAdminT.csproj.CopyComplete
