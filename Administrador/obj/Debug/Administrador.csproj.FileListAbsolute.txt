@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.Form1.resources
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.Properties.Resources.resources
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Administrador\Administrador\bin\Debug\Administrador.exe.config
+C:\Users\DELL\source\repos\Administrador\Administrador\bin\Debug\Administrador.exe
+C:\Users\DELL\source\repos\Administrador\Administrador\bin\Debug\Administrador.pdb
+C:\Users\DELL\source\repos\Administrador\Administrador\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\source\repos\Administrador\Administrador\bin\Debug\MetroFramework.dll
+C:\Users\DELL\source\repos\Administrador\Administrador\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.csproj.CopyComplete
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.exe
+C:\Users\DELL\source\repos\Administrador\Administrador\obj\Debug\Administrador.pdb
