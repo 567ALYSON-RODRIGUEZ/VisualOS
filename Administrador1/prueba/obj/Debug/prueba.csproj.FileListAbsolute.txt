@@ -1,0 +1,14 @@
+C:\Users\macho\source\repos\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\macho\source\repos\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\macho\source\repos\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\macho\source\repos\prueba\prueba\bin\Debug\MetroFramework.Design.dll
+C:\Users\macho\source\repos\prueba\prueba\bin\Debug\MetroFramework.dll
+C:\Users\macho\source\repos\prueba\prueba\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.csproj.CopyComplete
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\macho\source\repos\prueba\prueba\obj\Debug\prueba.pdb
